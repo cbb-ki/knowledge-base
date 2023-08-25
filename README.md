@@ -1,2 +1,2 @@
 # knowledge-base
-CBB knowledge base with FAQ
+Please check the <a href="https://github.com/cbb-ki/knowledge-base/wiki)https://github.com/cbb-ki/knowledge-base/wiki"> Wiki section</a>. 
